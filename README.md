@@ -1,6 +1,8 @@
 Discord protocol plugin for bitlbee.
 ====================================
 
+This is a modified version of Sm00th's bitlbee discord plugin, which includes a few additonal features to accommodate channel backlogs.
+
 License
 -------
 bitlbee-discord plugin is distributed under GPLv2 license.
